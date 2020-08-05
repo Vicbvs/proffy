@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/victor-borsatto/">
   <img alt="Victor Borsatto" src="https://img.shields.io/badge/-VictorBorsatto-8257E5?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Vicbvs/proffy?color=774DD6">
+  <!-- <img alt="Repository size" src="https://img.shields.io/github/repo-size/Vicbvs/proffy?color=774DD6"> -->
 
   <a href="https://github.com/Vicbvs/proffy/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Vicbvs/proffy?color=774DD6">
